@@ -3,7 +3,7 @@ import Form from './Form';
 import Dropdow from './Dropdow';
 import Secciones from './Secciones';
 const Navbar = () => {
-  const listDrowdon = ["Fundas", "Cargadores", "Auriculares", "Templados"]
+  const listDrowdon = ["Funda", "Cargadores", "Auriculares", "Templados"]
   
     return (
         <> 
